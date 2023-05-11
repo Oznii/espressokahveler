@@ -1,0 +1,38 @@
+body {
+    font-family: 'Courgette', cursive;
+font-family: 'PT Serif', serif;
+    border:2px solid brown;
+        margin: 0 auto;
+        width:960px;
+        text-align:center;
+        
+}
+
+navi {
+
+    color:red;
+}
+h1 {
+    color: peru;
+    font-size: 45px;
+}
+
+h3{
+    color: darkolivegreen;
+    font-size: 30px;
+}
+h4{
+    text-align: left;
+    color:darkslategray;
+    font-size: 22px;
+}
+ol { text-align: left;
+
+}
+footer {
+    background-color: thistle;
+}
+
+nav {
+    background-color: thistle;
+}
